@@ -1,3 +1,3 @@
 # stock_analysis
-Perform Webscraping Dashboarding in Python to obtain data.
-Extract data using a Python library.
+In this project i'll be performing some Webscraping and Dashboarding in Python to obtain data.
+This is a guided project by Coursera.
